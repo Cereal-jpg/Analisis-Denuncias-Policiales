@@ -165,10 +165,6 @@ ORDER BY total_denuncias DESC;
 - 📧 Email: [angelcerdan1@hotmail.com]
 - 💼 LinkedIn: [Angel Cerdán](https://www.linkedin.com/in/angel-cerd%C3%A1n-2a1091319/)
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles.
-
 ---
 
 ### 🏆 Skills Demostradas en este Proyecto
