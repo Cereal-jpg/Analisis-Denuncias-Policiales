@@ -167,7 +167,7 @@ ORDER BY total_denuncias DESC;
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [SECURITY.md](SECURITY.md) para detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles.
 
 ---
 
